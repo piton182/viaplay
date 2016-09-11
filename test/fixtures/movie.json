@@ -1,0 +1,17 @@
+{
+  "_embedded": {
+    "viaplay:blocks": [
+      {
+        "_embedded": {
+          "viaplay:product": {
+            "content": {
+              "imdb": {
+                "id": "tt2637276"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}
